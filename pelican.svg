@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <g stroke="black" stroke-width="5" fill="none">
+    <circle cx="200" cy="400" r="50" fill="blue"/> <!-- Bicycle wheel 1 -->
+    <circle cx="500" cy="400" r="50" fill="blue"/> <!-- Bicycle wheel 2 -->
+    <line x1="200" y1="400" x2="350" y2="280" stroke="black" stroke-width="10"/> <!-- Frame part 1 -->
+    <line x1="350" y1="280" x2="500" y2="400" stroke="black" stroke-width="10"/> <!-- Frame part 2 -->
+    <ellipse cx="350" cy="230" rx="60" ry="40" fill="white"/> <!-- Pelican body -->
+    <circle cx="370" cy="220" r="10" fill="black"/> <!-- Pelican eye -->
+    <line x1="330" y1="210" x2="370" y2="210" stroke="orange" stroke-width="8"/> <!-- Pelican beak -->
+  </g>
+</svg>

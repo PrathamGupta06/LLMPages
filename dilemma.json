@@ -1,0 +1,11 @@
+{
+  "people": 6,
+  "case_1": {
+    "swerve": false,
+    "reason": "Trying to minimize total harm and preserve all possible lives."
+  },
+  "case_2": {
+    "swerve": true,
+    "reason": "A child's potential outweighs adult criminals under ethical choice frameworks."
+  }
+}
